@@ -35,13 +35,13 @@ p {
   line-height: 30px;
 }
 
-.hero {
+.container {
   background: var(--secondary-color);
-  text-align: center;
   padding: 160px 20px;
+  text-align: center;
 }
 
-.hero p {
+.container p {
   font-size: 36px;
   font-weight: bold;
   margin: 0;
