@@ -37,8 +37,8 @@ p {
 
 .container {
   background: var(--secondary-color);
-  padding: 160px 20px;
   text-align: center;
+  padding: 160px 20px;
 }
 
 .container p {
@@ -48,7 +48,7 @@ p {
   color: #272142;
 }
 
-.hero h2 {
+.container h2 {
   font-family: var(--heading-font-family);
   font-weight: normal;
   line-height: 1.5;
@@ -87,7 +87,7 @@ p {
     font-size: 44px;
   }
 
-  .hero {
+  .container {
     padding: 80px 20px;
   }
 
