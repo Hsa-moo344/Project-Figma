@@ -29,10 +29,10 @@ h2 {
   font-size: 64px;
 }
 
-p {
+.p {
   font-weight: normal;
-  font-size: 16px;
-  line-height: 30px;
+  font-size: 11px;
+  line-height: 10px;
 }
 
 .container {
@@ -42,7 +42,7 @@ p {
 }
 
 .container p {
-  font-size: 36px;
+  font-size: 16px;
   font-weight: bold;
   margin: 0;
   color: #272142;
